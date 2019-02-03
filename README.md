@@ -197,8 +197,6 @@ DispatchQueue.main.asyncは必要なかったかも知れませんが、念の�
 </tr>
 </table>
 こんな感じのアプリにしてみました。  
-[ソースコード](https://github.com/kingcony/tweetsmple)
-にソース一式を置きました。
 
 ## まとめ
 
